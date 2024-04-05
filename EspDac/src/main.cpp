@@ -13,11 +13,11 @@ int y2 = 0;
 int y3 = 0;
 int y4 = 0;
 
-int x[5] = {0};   
-int x1[5] = {0};
-int x2[5] = {0};
-int x3[5] = {0};
-int x4[5] = {0};
+int x[5] = 0;   
+int x1[5] = 0;
+int x2[5] = 0;
+int x3[5] = 0;
+int x4[5] = 0;
 
 enum mode {
   HR,
